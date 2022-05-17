@@ -1,5 +1,8 @@
-:turtle: :turtle: :turtle:
+:turtle: :turtle: :turtle: 
 
-[![Codewars stats](https://www.codewars.com/users/crabn3bula/badges/small)](https://www.codewars.com/users/crabn3bula)
-[![LeetCode user crabn3bula](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fcrabn3bula&logo=leetcode&logoColor=yellow)](https://leetcode.com/crabn3bula/)
+I work as a full stack developer. Outside of work, I'm interested in gamedev, embedded and low-level stuff.
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitapozdeev&layout=compact&langs_count=10&hide=CSS,HTML&bg_color=00000000&text_color=777&border_color=444c56a1)](https://github.com/nikitapozdeev)
+
 
